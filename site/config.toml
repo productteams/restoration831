@@ -101,8 +101,8 @@ paginate = 10
 		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
 
 		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
+			"1234 S  Rd.",
+			"Nashville, TN 95959",
 			"United States"
 		]
 		phone = "000-000-0000"
